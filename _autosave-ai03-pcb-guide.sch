@@ -81,4 +81,8 @@ F 3 "" H 4000 4400 50  0001 C CNN
 	1    4000 4400
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	3150 4400 3400 4400
+Wire Wire Line
+	3600 4400 4000 4400
 $EndSCHEMATC
